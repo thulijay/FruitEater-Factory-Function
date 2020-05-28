@@ -1,4 +1,5 @@
 describe('The FruitEater function ', function(){
+
     it('should count how many apples have beed eaten', function(){
         var appleAndPearEater = FruitEater();
         appleAndPearEater.eatApple('apple');
@@ -7,6 +8,7 @@ describe('The FruitEater function ', function(){
     });
 
     it('should count how many apples and pears have beed eaten', function(){
+      
         var appleAndPearEater = FruitEater();
         appleAndPearEater.eatApple('apple');
         appleAndPearEater.eatPear('pear');
