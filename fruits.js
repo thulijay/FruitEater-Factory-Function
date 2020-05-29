@@ -1,5 +1,5 @@
 function FruitEater(){
-  
+
   var applesTotal = 0;
   var pearsTotal = 0;
 
