@@ -1,4 +1,4 @@
-describe('The FruitEater function ', function(){
+describe('Counts how many apples and pears has been eaten', function(){
 
     it('should count how many apples have beed eaten', function(){
         var appleAndPearEater = FruitEater();
