@@ -3,19 +3,19 @@ function FruitEater(){
   var applesTotal = 0;
   var pearsTotal = 0;
 
-  function applesEaten(){
+  function eatApple(){
     applesTotal++;
   }
 
-  function eatApple(){
+  function applesEaten(){
     return applesTotal;
   }
 
-  function pearsEaten(){
+  function eatPears(){
     pearsTotal++;
   }
 
-  function eatPear(){
+  function pearsEaten(){
     return pearsTotal;
   }
 
