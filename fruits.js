@@ -11,7 +11,7 @@ function FruitEater(){
     return applesTotal;
   }
 
-  function eatPears(){
+  function eatPear(){
     pearsTotal++;
   }
 
